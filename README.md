@@ -1,12 +1,10 @@
 # Steven Gates
 
-Senior Software Engineer in Dallas. Production web at [Associa](https://www.associaonline.com/).
+Senior Software Engineer in Dallas, building production web applications at [Associa](https://www.associaonline.com/).
 
-**Ships you can open without asking me**
+## Things I’ve shipped
 
-- [OpenLoop](https://github.com/stozo04/OpenLoop) — AR face lenses and boomerangs, 100% on-device, [live on Google Play](https://play.google.com/store/apps/details?id=io.github.stozo04.openloop)
-- [Image Convert](https://github.com/stozo04/HEIC-Convert) — HEIC to JPG/PNG/WebP in the browser. Nothing uploaded. [Try it](https://heic-converter-967289760135.us-west2.run.app/)
-- [Mila Gates](https://milagates.com) — Next.js family site. Photos, milestones, search. [Source](https://github.com/stozo04/mila-nextjs)
-- [stevengates.io](https://stevengates.io)
-
-Day job: lead engineer on the platform behind Associa (50k+ users).
+- [OpenLoop](https://github.com/stozo04/OpenLoop) — On-device AR face lenses and boomerangs. [Get it on Google Play](https://play.google.com/store/apps/details?id=io.github.stozo04.openloop).
+- [Image Convert](https://github.com/stozo04/HEIC-Convert) — Convert HEIC images to JPG, PNG, or WebP entirely in your browser. Nothing gets uploaded. [Try it live](https://heic-converter-967289760135.us-west2.run.app/).
+- [Mila Gates](https://milagates.com) — A Next.js family site for photos, milestones, and search. [View the source](https://github.com/stozo04/mila-nextjs).
+- [stevengates.io](https://stevengates.io) — Interactive portfolio with shipped projects, engineering case studies, and live GitHub activity.
